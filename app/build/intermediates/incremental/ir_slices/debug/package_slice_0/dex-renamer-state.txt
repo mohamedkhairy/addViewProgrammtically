@@ -1,0 +1,4 @@
+#Mon Dec 24 16:48:53 EET 2018
+base.0=G\:\\kotlin\\addViewProgrammtically\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
