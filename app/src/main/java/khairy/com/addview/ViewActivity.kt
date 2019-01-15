@@ -10,5 +10,8 @@ class ViewActivity : AppCompatActivity() {
         setContentView(R.layout.activity_view)
 
         var test = testClass("khairy")
+        var test1 = testClass("khairy")
+        var test2 = testClass("khairy")
+
     }
 }

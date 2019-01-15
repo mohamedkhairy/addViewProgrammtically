@@ -39,7 +39,6 @@ class MainActivity : AppCompatActivity() {
             tvv?.text = name
         }else{
         }
-
     }
 
 //    @SuppressLint("ResourceType") fun addtxtView(){
